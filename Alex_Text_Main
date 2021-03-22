@@ -1,1 +1,7 @@
+test merge
+<<<<<<< HEAD
 Casser le git partie 1 ;)
+=======
+Casser le git partie 1 ;)
+Assistance de l'audience requise !
+>>>>>>> e3ef8b4334a0a367ce4680fe6bd2dd57b78565d8
