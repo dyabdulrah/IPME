@@ -1,5 +1,5 @@
 #! /bin/bash
 
-echo "Hello World !"
+echo "Hello World pas classique alors !"
 
 exit 0
