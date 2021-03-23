@@ -1,9 +1,11 @@
-"item":{
-	"test":2145,
-	"options": [],
-	"bonnequestion":"WhereIsBryan",
-	"id":1245,
-	"ndm":"ytdl-core",
-	"core":"fs"
+{
+	"item": {
+		"test":2145,
+		"options": (),
+		"bonnequestion":"WhereIsBryan",
+		"id":7125,
+		"ndm":"ytdl-core",
+		"core":"fs"
+	},
+	"item2": [ "in the kitchen", "in the bathroom"]
 }
-
