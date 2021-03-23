@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="030a70e9-ae22-4201-89f7-3d27d5d5b058" name="Default Changelist" comment="fichier js ajout" />
+    <list default="true" id="030a70e9-ae22-4201-89f7-3d27d5d5b058" name="Default Changelist" comment="fichier ignore java changer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616489316846</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fichier ignore java changer">
+      <created>1616489523585</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616489523585</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -157,6 +166,7 @@
     <MESSAGE value="Add gitignore" />
     <MESSAGE value="ajout .java" />
     <MESSAGE value="fichier js ajout" />
-    <option name="LAST_COMMIT_MESSAGE" value="fichier js ajout" />
+    <MESSAGE value="fichier ignore java changer" />
+    <option name="LAST_COMMIT_MESSAGE" value="fichier ignore java changer" />
   </component>
 </project>
