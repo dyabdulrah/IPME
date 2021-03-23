@@ -1,5 +1,10 @@
 {
 	"numb":2,
+	"mod":{
+		"npm":"2.4.5",
+		"node":"24.0.5",
+		"excpeliarmus":"012.231"
+	},
 	"item": {
 		"test":2145,
 		"options": (),
